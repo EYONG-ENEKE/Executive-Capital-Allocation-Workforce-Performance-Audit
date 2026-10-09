@@ -1,5 +1,5 @@
  Executive Summary: Enterprise Capital Allocation & Performance Audit 
-**Lead Data Analyst:** Alain Eyong Eyong Eneke  
+**Lead Data Analyst:** Eyong Eyong Eneke Alain   
 
 ---
 
